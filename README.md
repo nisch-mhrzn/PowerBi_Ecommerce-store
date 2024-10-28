@@ -15,6 +15,6 @@ This project involved:
 The project was an exercise in independently developing a Power BI dashboard, refining both visualization techniques and data interpretation skills essential for real-world analysis.
 
 ### Let's Connect!
-I'm always eager to connect with others passionate about data. Feel free to reach out on [GitHub](https://github.com/your-username) or [LinkedIn](https://linkedin.com/in/your-linkedin) for collaboration or to discuss data insights!
+I'm always eager to connect with others passionate about data. Feel free to reach out on [GitHub](https://github.com/nisch-mhrzn) or [LinkedIn](https://www.linkedin.com/in/nischalm1/) for collaboration or to discuss data insights!
 
 Happy Analyzing! 📊
